@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="27">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Max consumables"</Description>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+
+7FF774608E3C:
+db 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 00
+
+[DISABLE]
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"All Weapons"</Description>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+
+7FF774608EE4:
+db 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00
+
+[DISABLE]
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"All sub"</Description>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+
+7FF774609250:
+db 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 0F 00 00 00 00
+
+[DISABLE]
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Infinite item usage"</Description>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+
+7FF773A49E43:
+db 90 90 90 90
+
+[DISABLE]
+
+7FF773A49E43:
+db 89 74 BB 38
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"GodMode"</Description>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+
+7FF773A57AE3:
+db 90 90 90
+
+[DISABLE]
+
+7FF773A57AE3:
+db 89 74F 4C
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Infinite MP"</Description>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+
+7FF773A57B8F:
+db B8 E7 03 00 00
+
+[DISABLE]
+
+7FF773A57B8F:
+db B8 19 FC FF FF
+</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of mov [rbx+rdi*4+38],esi</Description>
+      <Address>7FF773A49E43</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5B9E43</ModuleNameOffset>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>40</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>74</Byte>
+        <Byte>BB</Byte>
+        <Byte>38</Byte>
+      </Actual>
+      <After>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>30</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov edi,[rcx+rax*4+38]</Description>
+      <Address>7FF773A49E7A</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5B9E7A</ModuleNameOffset>
+      <Before>
+        <Byte>8B</Byte>
+        <Byte>C2</Byte>
+        <Byte>41</Byte>
+        <Byte>8B</Byte>
+        <Byte>D8</Byte>
+      </Before>
+      <Actual>
+        <Byte>8B</Byte>
+        <Byte>7C</Byte>
+        <Byte>81</Byte>
+        <Byte>38</Byte>
+      </Actual>
+      <After>
+        <Byte>4C</Byte>
+        <Byte>8D</Byte>
+        <Byte>34</Byte>
+        <Byte>81</Byte>
+        <Byte>41</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [rbx+rdi*4+38],esi</Description>
+      <Address>7FF773A49E43</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5B9E43</ModuleNameOffset>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>40</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>74</Byte>
+        <Byte>BB</Byte>
+        <Byte>38</Byte>
+      </Actual>
+      <After>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>30</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov [rbx+rdi*4+38],esi</Description>
+      <Address>7FF773A49E43</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5B9E43</ModuleNameOffset>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>40</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>74</Byte>
+        <Byte>BB</Byte>
+        <Byte>38</Byte>
+      </Actual>
+      <After>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>30</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [rdi+4C],ecx</Description>
+      <Address>7FF773A57AE3</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5C7AE3</ModuleNameOffset>
+      <Before>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>30</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>4F</Byte>
+        <Byte>4C</Byte>
+      </Actual>
+      <After>
+        <Byte>48</Byte>
+        <Byte>83</Byte>
+        <Byte>C4</Byte>
+        <Byte>20</Byte>
+        <Byte>5F</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [rdi+50],ecx</Description>
+      <Address>7FF773A57BC3</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5C7BC3</ModuleNameOffset>
+      <Before>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>30</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>4F</Byte>
+        <Byte>50</Byte>
+      </Actual>
+      <After>
+        <Byte>48</Byte>
+        <Byte>83</Byte>
+        <Byte>C4</Byte>
+        <Byte>20</Byte>
+        <Byte>5F</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov rbx,[rsp+30]</Description>
+      <Address>7FF773A57BBE</Address>
+      <ModuleName>TOV_DE.exe</ModuleName>
+      <ModuleNameOffset>5C7BBE</ModuleNameOffset>
+      <Before>
+        <Byte>0F</Byte>
+        <Byte>48</Byte>
+        <Byte>C8</Byte>
+        <Byte>8B</Byte>
+        <Byte>C3</Byte>
+      </Before>
+      <Actual>
+        <Byte>48</Byte>
+        <Byte>8B</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>30</Byte>
+      </Actual>
+      <After>
+        <Byte>89</Byte>
+        <Byte>4F</Byte>
+        <Byte>50</Byte>
+        <Byte>48</Byte>
+        <Byte>83</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
